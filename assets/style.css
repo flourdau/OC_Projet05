@@ -248,12 +248,12 @@ input[type="submit"] {
 
 /*
 Add by flourdau */
-.carousel-item img {
+/* .carousel-item img {
 	width:100%;
 	height: 100%;
 	max-width:1900px;
 	max-height:900px;
-}
+} */
 
 @media all and (max-width: 1180px) {
 	.picture {
@@ -365,8 +365,5 @@ Add by flourdau */
 		width: 80%;
 	}
 
-	.carousel-item img {
-		height:70%;
-	}
 }
 
