@@ -40,6 +40,7 @@ body {
 
 .social-link img {
 	width: 20px;
+	height: 20px;
 }
 
 #about {
@@ -357,6 +358,9 @@ input[type="submit"] {
 
 /*
 Add by flourdau */
-.portrait {
-	width: 0ch;
+.carousel-item img {
+	width:100%;
+	height:100%;
+	max-width:1900px;
+	max-height:900px;
 }
