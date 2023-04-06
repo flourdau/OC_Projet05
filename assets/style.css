@@ -68,9 +68,10 @@ body {
 }
 
 .picture img {
-	width: 100%;
-
+	width: 512px;
+	height: 512px
 }
+
 #about-me {
 	flex: 2
 }
@@ -354,3 +355,8 @@ input[type="submit"] {
 	}
 }
 
+/*
+Add by flourdau */
+.portrait {
+	width: 0ch;
+}
