@@ -364,5 +364,9 @@ Add by flourdau */
 	.picture {
 		width: 80%;
 	}
+
+	.carousel-item img {
+		height:70%;
+	}
 }
 
