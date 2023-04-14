@@ -104,15 +104,19 @@ body {
 	padding-block: 2em;
 }
 
-#gallery  {
+.gallery-item  {
+	height: 100%;
 	width: 100%;
-	display: flex;
-	flex-direction: column;
+	object-fit: cover;
 	justify-content: center;
 }
 
 .gallery .nav {
 	justify-content: center;
+}
+
+.gallery {
+
 }
 
 .tags-bar {
@@ -138,15 +142,15 @@ body {
 .item-column::after {
 	content: "";
 	display: block;
-	padding-bottom: 100%;
+	/* padding-bottom: 100%; */
 }
 
 .gallery-item {
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	max-width: 440px;
-	max-height: 440px;
+	/* position: absolute; */
+	/* width: 100%; */
+	/* height: 100%; */
+	/* max-width: 440px; */
+	/* max-height: 440px; */
 	object-fit: cover;
 	padding: .5rem;
 }
