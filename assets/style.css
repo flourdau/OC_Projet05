@@ -271,11 +271,11 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+.carousel-item img {
+	width:1900px;
+	height:900px;
+}
 @media all and (max-width: 1180px) {
-	.carousel-item img {
-		width:1900px;
-		height:900px;
-	}
 	.picture {
 		flex : 2;
 	}
