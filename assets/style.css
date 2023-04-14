@@ -65,8 +65,8 @@ body {
 }
 
 .picture {
-	flex: 2;
-	margin: 0 20px;
+	flex: 1;
+	/* margin: 0 20px; */
 	z-index: 0;
 }
 
@@ -146,7 +146,7 @@ body {
 	max-width: 440px;
 	max-height: 440px;
 	object-fit: cover;
-	margin: .5rem;
+	padding: .5rem;
 }
 
 .mg-prev, .mg-next {
