@@ -151,7 +151,7 @@ body {
 	max-width: 440px;
 	max-height: 440px;
 	object-fit: cover;
-	padding: .5rem;
+	/* padding: .5rem; */
 }
 
 .mg-prev, .mg-next {
