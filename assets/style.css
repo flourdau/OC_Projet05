@@ -138,6 +138,11 @@ body {
 	display: block;
 	padding-bottom: 100%;
 }
+#gallery {
+	/* background-color: RED; */
+	display: flex;
+
+}
 
 .gallery-item {
 	position: absolute;
