@@ -142,8 +142,9 @@ body {
 .gallery-item {
 	position: absolute;
 	width: 100%;
-	max-width: 440px;
 	height: 100%;
+	max-width: 440px;
+	max-height: 440px;
 	object-fit: cover;
 	margin: .5rem;
 }
