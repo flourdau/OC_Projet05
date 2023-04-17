@@ -21,7 +21,8 @@ body {
 }
 
 .top-header .name {
-	font-size: 26px
+	font-size: 2rem;
+    padding:0.5rem;
 }
 
 .nav ul {
