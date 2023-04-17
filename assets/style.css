@@ -386,7 +386,7 @@ input[type="submit"] {
 
 .carousel-item img {
 	width:100%;
-    height: auto;
+    height: 880px;
 	max-width:1903px;
 	max-height:880px;
 }
