@@ -382,6 +382,12 @@ input[type="submit"] {
 	.picture {
 		width: 80%;
 	}
+
+    .top-header .name {
+        font-size: 1.1rem;
+        padding:0.2rem;
+    }
+    
 }
 
 
